@@ -39,3 +39,13 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/abdulrahmannadap/count.svg?"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/abdulrahmannadap/abdulrahmannadap/output/snake.svg" alt="Snake animation" />
+
+###
