@@ -53,7 +53,7 @@
 
 ###
 
-<img alt="github-snake" src="https://platane.github.io/snk/" />
+<img alt="github-snake" src="github-user-contribution.svg" />
 
 
   
