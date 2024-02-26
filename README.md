@@ -52,6 +52,6 @@
 </div>
 
 ###
-(https://github.com/abdulrahmannadap/abdulrahmannadap/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/abdulrahmannadap/abdulrahmannadap/blob/output/github-contribution-grid-snake.svg)
 ###
 
