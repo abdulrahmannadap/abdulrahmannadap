@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abdulrahman Nadap and I'm a Software Engineer from Bhiwandi ...</h2>
+<h2 align="left">Hi 👋! My name is Abdulrahman Nadap and I'm a Software Engineer from India ...</h2>
 
 ###
 
