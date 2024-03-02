@@ -42,7 +42,7 @@
 
 ###
 <img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
-###
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/abdulrahmannadap/count.svg?"  />
