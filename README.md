@@ -18,7 +18,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" alt="dotnetcore logo"  />
 </div>
 
+
 ###
+
 
 <div align="left">
   <a href="https://discord.com/channels/@me/995030735784247367" target="_blank">
@@ -38,6 +40,8 @@
   </a>
 </div>
 
+###
+<img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
 ###
 
 <div align="center">
