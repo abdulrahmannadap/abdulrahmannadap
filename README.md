@@ -102,20 +102,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <h2>🎨 Featured Projects</h2>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-<div align="center">
-  <a href="#" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulrahmannadap&repo=ecommerce-platform&theme=radical" alt="E-Commerce Platform" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulrahmannadap&repo=task-management&theme=radical" alt="Task Management" />
-  </a>
-</div>
 
 ###
 
